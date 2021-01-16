@@ -1,5 +1,5 @@
 ﻿/**
-*   Copyright 2017, Unicreo
+*   Copyright 2021
 *   Released under LGPL License.
 *   Author: Alexey Malyuk
  *  Contact: alexeymalyuk@gmail.com
